@@ -6,7 +6,7 @@ This page offers DL-driven tools for analyzing powder XRD. With this tool, users
 
 Users can download 197,131 standard XRD Patterns, perturbed XRD patterns, and texture-perturbed XRD patterns from the ./XRD_analysis.ipynb notebook file.
  
-***
+
 ## Software Requirements
 
 The code is tested in under packages.
@@ -19,13 +19,16 @@ The code is tested in under packages.
 
 * numpy : 1.23.1
 
-***
+
 ## Getting Started
 All the codes are available as Jupyter Notebook files  `./XRD_analysis.ipynb`.
-***
-## References
-Lee et al. A Deep Learning Approach to Powder XRD Pattern Analysis: Addressing Generalizability and Perturbation Issues Simultaneously
-DOI will be updated.
+
+## Reference
+>>      Please cite follwing
+>>      Lee et al. A Deep Learning Approach to Powder XRD Pattern Analysis: Addressing Generalizability and Perturbation Issues Simultaneously
+
+DOI and link will be updated.
+
 
 ***
 This software is released under the MIT License.
