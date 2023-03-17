@@ -24,7 +24,8 @@ The code is tested in under packages.
 All the codes are available as Jupyter Notebook files  `./XRD_analysis.ipynb`.
 ***
 ## References
-
+Lee et al. A Deep Learning Approach to Powder XRD Pattern Analysis: Addressing Generalizability and Perturbation Issues Simultaneously
+DOI will be updated.
 
 ***
 This software is released under the MIT License.
