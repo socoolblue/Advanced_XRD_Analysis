@@ -24,8 +24,8 @@ The code is tested in under packages.
 All the codes are available as Jupyter Notebook files  `./XRD_analysis.ipynb`.
 
 ## Reference
->>      Please cite follwing
->>      Lee et al. A Deep Learning Approach to Powder XRD Pattern Analysis: Addressing Generalizability and Perturbation Issues Simultaneously
+>      Please cite follwing
+>      Lee et al. A Deep Learning Approach to Powder XRD Pattern Analysis: Addressing Generalizability and Perturbation Issues Simultaneously
 
 DOI and link will be updated.
 
