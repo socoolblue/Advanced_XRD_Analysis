@@ -26,6 +26,7 @@ All the codes are available as Jupyter Notebook files  `./XRD_analysis.ipynb`.
 ## Reference
 Please cite follwing
 >      Lee et al. A Deep Learning Approach to Powder XRD Pattern Analysis: Addressing Generalizability and Perturbation Issues Simultaneously
+>      Rodriguez-Carvajal, For a more recent version see Rodríguez-Carvajal, J. Recent Developments of the Program FULLPROF, in Commission on Powder Diffraction (IUCr). J. Physica B.(1993), 192, 55
 
 DOI and link will be updated.
 
