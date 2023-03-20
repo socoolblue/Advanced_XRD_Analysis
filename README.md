@@ -22,7 +22,9 @@ The code is tested in under packages.
 * FullProf : July-2017
 
 ## Getting Started
-All the codes are available as Jupyter Notebook files  `./XRD_analysis.ipynb`.
+All the codes are available as Jupyter Notebook files  
+`./XRD_analysis.ipynb`.
+`./XRD_Generator.ipynb`.
 
 ## Reference
 Please cite follwing
