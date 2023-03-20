@@ -19,7 +19,7 @@ The code is tested in under packages.
 
 * numpy : 1.23.1
 
-* fullprof : July-2017
+* FullProf : July-2017
 
 ## Getting Started
 All the codes are available as Jupyter Notebook files  `./XRD_analysis.ipynb`.
